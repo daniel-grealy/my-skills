@@ -6,7 +6,7 @@
     {
       "name": "my-skills",
       "source": "./",
-      "description": "Skills: spec-not-procedure, phone-web-app, mummify, focused, brainstorm, writing-assistant",
+      "description": "Skills: spec-not-procedure, phone-web-app, writing-assistant",
       "strict": false,
       "skills": [
         "./skills/spec-not-procedure",
